@@ -74,3 +74,8 @@
     @apply bg-background text-foreground;
   }
 }
+
+
+.screen-width{
+  @apply w-11/12 md:w-10/12  mx-auto
+}
