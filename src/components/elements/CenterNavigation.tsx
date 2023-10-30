@@ -16,7 +16,7 @@ import {
 
 export default function CenterNavigation() {
   return (
-    <Menubar>
+    <Menubar className="border-none" >
       <MenubarMenu>
         <MenubarTrigger>File</MenubarTrigger>
         <MenubarContent>
